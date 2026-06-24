@@ -61,8 +61,7 @@ final3/
 │   ├── compare_convergence.py # PPO vs A2C 收敛曲线
 │   ├── plot_baseline.py       # 启发式基线对比柱状图
 │   ├── annotate_windy.py      # 风扰轨迹标注工具
-│   ├── render_mermaid_clean.py  # Mermaid 图表渲染脚本（透明背景、自动裁剪）
-│   └── format_docx.py         # Word 文档格式化脚本（三线表、字体、行距）
+
 │
 ├── .gitignore                 # Git 忽略规则
 ├── outline.docx               # 实验报告 Word 版（三线表、宋体小四、1.25 倍行距）
