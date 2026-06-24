@@ -1,0 +1,16 @@
+{
+  "episodes": 50,
+  "success_rate": 1.0,
+  "success_std": 0.0,
+  "steps_mean": 24.760000228881836,
+  "steps_std": 24.10606575012207,
+  "steps_min": 1,
+  "steps_max": 108,
+  "steps_median": 16.5,
+  "success_steps_mean": 24.760000228881836,
+  "success_steps_std": 24.10606575012207,
+  "reward_mean": 541.8185424804688,
+  "reward_std": 36.17027282714844,
+  "reward_min": 499.9800109863281,
+  "reward_max": 650.3133544921875
+}
